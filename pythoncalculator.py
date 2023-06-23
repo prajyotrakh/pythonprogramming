@@ -1,0 +1,10 @@
+a=int(input("enter a value for a"))
+b=int(input("enetr a value for b"))
+c=a+b
+d=a-b
+e=a*b
+f=a/b
+print("the sum of ",a,"&",b,"=",c)
+print("the subtraction of ",a,"&",b,"=",d)
+print("the multiplication of ",a,"&",b,"=",e)
+print("the division of ",a,"&",b,"=",f)
